@@ -1,98 +1,183 @@
 #EXTM3U
-#EXTINF:-1,UK: BBC One
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/913.m3u8
-#EXTINF:-1,UK: BBC Two
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/912.m3u8
-#EXTINF:-1,UK: iTV HD
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/900.m3u8
-#EXTINF:-1,UK: iTV2 HD
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/899.m3u8
-#EXTINF:-1,UK: iTV3 HD
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/898.m3u8
-#EXTINF:-1,UK: iTV4 HD
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/897.m3u8
-#EXTINF:-1,UK: CHANNEL 4 HD
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/908.m3u8
-#EXTINF:-1,UK: CHANNEL 5 HD
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/907.m3u8
-#EXTINF:-1,UK: === Uk News ===
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/916.m3u8
-#EXTINF:-1,UK: CNN
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/906.m3u8
-#EXTINF:-1,UK: BBC News HD
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/914.m3u8
-#EXTINF:-1,UK: Sky News
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/880.m3u8
-#EXTINF:-1,UK: ===Sky UK Movies===
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/915.m3u8
-#EXTINF:-1,UK: Sky Movies Family
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/881.m3u8
-#EXTINF:-1,UK: Sky Cinema Select
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/882.m3u8
-#EXTINF:-1,UK: Sky Cinema Sci Fi & Horror
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/883.m3u8
-#EXTINF:-1,UK: Sky Cinema Premiere
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/884.m3u8
-#EXTINF:-1,UK: Sky Cinema Hits
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/885.m3u8
-#EXTINF:-1,UK: Sky Cinema Greats
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/886.m3u8
-#EXTINF:-1,UK: Sky Cinema Drama & Romance
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/887.m3u8
-#EXTINF:-1,UK: Sky Cinema Disney
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/888.m3u8
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/889.m3u8
-#EXTINF:-1,UK: Sky Cinema Action & Adventure
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/891.m3u8
-#EXTINF:-1,UK: Sky Atlantic UK
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/892.m3u8
-#EXTINF:-1,UK: Sky 1
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/893.m3u8
-#EXTINF:-1,UK: === Sky Uk Documentary ===
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/918.m3u8
-#EXTINF:-1,UK: National Geographic HD
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/895.m3u8
-#EXTINF:-1,UK: Nat Geo Wild UK
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/896.m3u8
-#EXTINF:-1,UK: Discovery History
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/904.m3u8
-#EXTINF:-1,UK: Discovery HD UK
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/905.m3u8
-#EXTINF:-1,UK: === UK Kids ===
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/917.m3u8
-#EXTINF:-1,UK: Nickelodeon
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/894.m3u8
-#EXTINF:-1,UK: Disney Channel UK
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/902.m3u8
-#EXTINF:-1,UK: === Sky Uk & BT Sports ===
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/919.m3u8
-#EXTINF:-1,UK: Sky Sports News
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/872.m3u8
-#EXTINF:-1,UK: Sky Sports Premier League
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/871.m3u8
-#EXTINF:-1,UK: Sky Sports Arena HD
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/878.m3u8
-#EXTINF:-1,UK: Sky Sports Action HD
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/879.m3u8
-#EXTINF:-1,UK: Sky Sports Main Event
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/874.m3u8
-#EXTINF:-1,UK: Sky Sports Football
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/875.m3u8
-#EXTINF:-1,UK: Sky Sports Golf HD
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/870.m3u8
-#EXTINF:-1,UK: Sky Sports Mix
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/873.m3u8
-#EXTINF:-1,UK: Sky Sports F1
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/876.m3u8
-#EXTINF:-1,UK: Sky Sports Cricket HD
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/877.m3u8
-#EXTINF:-1,UK: BT Sport ESPN
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/909.m3u8
-#EXTINF:-1,UK: BT Sport 1 HD
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/911.m3u8
-#EXTINF:-1,UK: BT Sport 2 HD
-http://skyhd-iptv.com:2095/live/albertnika/SeUfzURdsV/910.m3u8
+#EXTINF:-1,CA:ABC
+http://universe-ip.com:8000/2/2/4812
+#EXTINF:-1,CA:ABC_Spark
+http://universe-ip.com:8000/2/2/3686
+#EXTINF:-1,CA:AMC
+http://universe-ip.com:8000/2/2/4813
+#EXTINF:-1,CA:ANIMAL_PLANET_HD
+http://universe-ip.com:8000/2/2/21525
+#EXTINF:-1,CA:A_and_E_FHD
+http://universe-ip.com:8000/2/2/21526
+#EXTINF:-1,CA:CARTOON_NETWORK
+http://universe-ip.com:8000/2/2/31951
+#EXTINF:-1,CA:CBC
+http://universe-ip.com:8000/2/2/4020
+#EXTINF:-1,CA:CBC_NEWS
+http://universe-ip.com:8000/2/2/4809
+#EXTINF:-1,CA:CBS
+http://universe-ip.com:8000/2/2/4018
+#EXTINF:-1,CA:CHCH
+http://universe-ip.com:8000/2/2/4785
+#EXTINF:-1,CA:Cinemax_MoreMax
+http://universe-ip.com:8000/2/2/4808
+#EXTINF:-1,CA:CityTV_Vancouver
+http://universe-ip.com:8000/2/2/3684
+#EXTINF:-1,CA:City_TV
+http://universe-ip.com:8000/2/2/4786
+#EXTINF:-1,CA:CNN_HD
+http://universe-ip.com:8000/2/2/21524
+#EXTINF:-1,CA:COMEDY
+http://universe-ip.com:8000/2/2/4807
+#EXTINF:-1,CA:CP_24
+http://universe-ip.com:8000/2/2/3304
+#EXTINF:-1,CA:CTV_News
+http://universe-ip.com:8000/2/2/3683
+#EXTINF:-1,CA:CW_HD
+http://universe-ip.com:8000/2/2/3682
+#EXTINF:-1,CA:Discovery_HD
+http://universe-ip.com:8000/2/2/4019
+#EXTINF:-1,CA:Disney_HD
+http://universe-ip.com:8000/2/2/4026
+#EXTINF:-1,CA:DISNEY_JR
+http://universe-ip.com:8000/2/2/4815
+#EXTINF:-1,CA:DISNEY_XD
+http://universe-ip.com:8000/2/2/4806
+#EXTINF:-1,CA:DIY_NETWORK
+http://universe-ip.com:8000/2/2/4814
+#EXTINF:-1,CA:E
+http://universe-ip.com:8000/2/2/31943
+#EXTINF:-1,CA:Food_Network
+http://universe-ip.com:8000/2/2/4810
+#EXTINF:-1,CA:Fox
+http://universe-ip.com:8000/2/2/4011
+#EXTINF:-1,CA:FX
+http://universe-ip.com:8000/2/2/4811
+#EXTINF:-1,CA:FXX
+http://universe-ip.com:8000/2/2/4818
+#EXTINF:-1,CA:Global
+http://universe-ip.com:8000/2/2/4023
+#EXTINF:-1,CA:Global_HD
+http://universe-ip.com:8000/2/2/3681
+#EXTINF:-1,CA:Golf
+http://universe-ip.com:8000/2/2/4012
+#EXTINF:-1,CA:HBO_1
+http://universe-ip.com:8000/2/2/4010
+#EXTINF:-1,CA:HBO_2
+http://universe-ip.com:8000/2/2/4009
+#EXTINF:-1,CA:HGTV
+http://universe-ip.com:8000/2/2/8136
+#EXTINF:-1,CA:HISTORY
+http://universe-ip.com:8000/2/2/4816
+#EXTINF:-1,CA:ICI_MONTREAL_FR
+http://universe-ip.com:8000/2/2/21523
+#EXTINF:-1,CA:ICI_VANCOUVER_FR
+http://universe-ip.com:8000/2/2/21522
+#EXTINF:-1,CA:INVESTIGATION_DISCOVERY
+http://universe-ip.com:8000/2/2/4025
+#EXTINF:-1,CA:LCN_FR
+http://universe-ip.com:8000/2/2/21521
+#EXTINF:-1,CA:Lifetime_HD
+http://universe-ip.com:8000/2/2/21520
+#EXTINF:-1,CA:METEO_FR
+http://universe-ip.com:8000/2/2/21519
+#EXTINF:-1,CA:MTV
+http://universe-ip.com:8000/2/2/4006
+#EXTINF:-1,CA:NAT_GEO
+http://universe-ip.com:8000/2/2/4821
+#EXTINF:-1,CA:NAT_GEO_WILD
+http://universe-ip.com:8000/2/2/4822
+#EXTINF:-1,CA:NBA_TV
+http://universe-ip.com:8000/2/2/4005
+#EXTINF:-1,CA:OLN
+http://universe-ip.com:8000/2/2/4007
+#EXTINF:-1,CA:OMNI_1
+http://universe-ip.com:8000/2/2/31950
+#EXTINF:-1,CA:OMNI_2
+http://universe-ip.com:8000/2/2/31949
+#EXTINF:-1,CA:OMNI_BC
+http://universe-ip.com:8000/2/2/31948
+#EXTINF:-1,CA:RDI_FR
+http://universe-ip.com:8000/2/2/21518
+#EXTINF:-1,CA:RDS_2
+http://universe-ip.com:8000/2/2/4796
+#EXTINF:-1,CA:RDS_2_FR
+http://universe-ip.com:8000/2/2/21516
+#EXTINF:-1,CA:RDS_FR
+http://universe-ip.com:8000/2/2/21517
+#EXTINF:-1,CA:RDS_INFO_FR
+http://universe-ip.com:8000/2/2/21515
+#EXTINF:-1,CA:SportsNet_360
+http://universe-ip.com:8000/2/2/4798
+#EXTINF:-1,CA:SportsNet_East
+http://universe-ip.com:8000/2/2/4797
+#EXTINF:-1,CA:SportsNet_One
+http://universe-ip.com:8000/2/2/4800
+#EXTINF:-1,CA:SportsNet_Ontario
+http://universe-ip.com:8000/2/2/4799
+#EXTINF:-1,CA:SportsNet_Pacific
+http://universe-ip.com:8000/2/2/4805
+#EXTINF:-1,CA:SportsNet_West
+http://universe-ip.com:8000/2/2/4801
+#EXTINF:-1,CA:SportsNet_World
+http://universe-ip.com:8000/2/2/4802
+#EXTINF:-1,CA:SUPER_ECRAN_1
+http://universe-ip.com:8000/2/2/31947
+#EXTINF:-1,CA:SUPER_ECRAN_2
+http://universe-ip.com:8000/2/2/31946
+#EXTINF:-1,CA:SUPER_ECRAN_3
+http://universe-ip.com:8000/2/2/31945
+#EXTINF:-1,CA:SUPER_ECRAN_4
+http://universe-ip.com:8000/2/2/31944
+#EXTINF:-1,CA:TELEMAGINO_FR
+http://universe-ip.com:8000/2/2/21514
+#EXTINF:-1,CA:Teletoon_HD
+http://universe-ip.com:8000/2/2/3680
+#EXTINF:-1,CA:TELE_TOON_FR
+http://universe-ip.com:8000/2/2/31942
+#EXTINF:-1,CA:TFO_FR
+http://universe-ip.com:8000/2/2/21511
+#EXTINF:-1,CA:THE_FAMILY_CHANNEL
+http://universe-ip.com:8000/2/2/21534
+#EXTINF:-1,CA:TLC
+http://universe-ip.com:8000/2/2/4823
+#EXTINF:-1,CA:TREEHOUSE_HD
+http://universe-ip.com:8000/2/2/21532
+#EXTINF:-1,CA:Tru_TV_HD
+http://universe-ip.com:8000/2/2/3679
+#EXTINF:-1,CA:TSN_1
+http://universe-ip.com:8000/2/2/4791
+#EXTINF:-1,CA:TSN_2
+http://universe-ip.com:8000/2/2/4792
+#EXTINF:-1,CA:TSN_3
+http://universe-ip.com:8000/2/2/4793
+#EXTINF:-1,CA:TSN_4
+http://universe-ip.com:8000/2/2/4794
+#EXTINF:-1,CA:TSN_5
+http://universe-ip.com:8000/2/2/4795
+#EXTINF:-1,CA:TV5_QUEBEC_FR
+http://universe-ip.com:8000/2/2/21512
+#EXTINF:-1,CA:TVA_SPORTS_FR
+http://universe-ip.com:8000/2/2/21510
+#EXTINF:-1,CA:Velocity_HD
+http://universe-ip.com:8000/2/2/3677
+#EXTINF:-1,CA:VIE_FR
+http://universe-ip.com:8000/2/2/21507
+#EXTINF:-1,CA:VRAK_TV_FR
+http://universe-ip.com:8000/2/2/21506
+#EXTINF:-1,CA:V_MONTREAL_FR
+http://universe-ip.com:8000/2/2/21509
+#EXTINF:-1,CA:WEATHER_NETWORK_HD
+http://universe-ip.com:8000/2/2/21505
+#EXTINF:-1,CA:World
+http://universe-ip.com:8000/2/2/3676
+#EXTINF:-1,CA:World_Fishing_Network_HD
+http://universe-ip.com:8000/2/2/21504
+#EXTINF:-1,CA:YOOPA_FR
+http://universe-ip.com:8000/2/2/21503
+#EXTINF:-1,CA:YTV
+http://universe-ip.com:8000/2/2/21533
+
 #EXTINF:-1,A Christmas Story
 http://iptv.satplex.co.uk:8080/movie/ola3/xS7DXUc9kh/10310.mp4
 #EXTINF:-1,12 Dates of Christmas
