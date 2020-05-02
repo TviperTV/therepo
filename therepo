@@ -1,37 +1,44 @@
 #EXTM3U
-#EXTINF:-1,AR: beIN SPORTS 1 HD
-http://proxytv.servegame.org:25461/megatrontvflusx00954/eQcWRC53Jv/58693
-#EXTINF:-1,AR: beIN SPORTS 10 HD
-http://proxytv.servegame.org:25461/megatrontvflusx00954/eQcWRC53Jv/58702
-#EXTINF:-1,AR: beIN SPORTS 11 HD
-http://proxytv.servegame.org:25461/megatrontvflusx00954/eQcWRC53Jv/58703
-#EXTINF:-1,AR: beIN SPORTS 12 HD
-http://proxytv.servegame.org:25461/megatrontvflusx00954/eQcWRC53Jv/58704
-#EXTINF:-1,AR: beIN SPORTS 13 HD
-http://proxytv.servegame.org:25461/megatrontvflusx00954/eQcWRC53Jv/58705
-#EXTINF:-1,AR: beIN SPORTS 14 HD
-http://proxytv.servegame.org:25461/megatrontvflusx00954/eQcWRC53Jv/58706
-#EXTINF:-1,AR: beIN SPORTS 15 HD
-http://proxytv.servegame.org:25461/megatrontvflusx00954/eQcWRC53Jv/58707
-#EXTINF:-1,AR: beIN SPORTS 16 HD
-http://proxytv.servegame.org:25461/megatrontvflusx00954/eQcWRC53Jv/58708
-#EXTINF:-1,AR: beIN SPORTS 2 HD
-http://proxytv.servegame.org:25461/megatrontvflusx00954/eQcWRC53Jv/58694
-#EXTINF:-1,AR: beIN SPORTS 3 HD
-http://proxytv.servegame.org:25461/megatrontvflusx00954/eQcWRC53Jv/58695
-#EXTINF:-1,AR: beIN SPORTS 4 HD
-http://proxytv.servegame.org:25461/megatrontvflusx00954/eQcWRC53Jv/58696
-#EXTINF:-1,AR: beIN SPORTS 5 HD
-http://proxytv.servegame.org:25461/megatrontvflusx00954/eQcWRC53Jv/58697
-#EXTINF:-1,AR: beIN SPORTS 6 HD
-http://proxytv.servegame.org:25461/megatrontvflusx00954/eQcWRC53Jv/58698
-#EXTINF:-1,AR: beIN SPORTS 7 HD
-http://proxytv.servegame.org:25461/megatrontvflusx00954/eQcWRC53Jv/58699
-#EXTINF:-1,AR: beIN SPORTS 8 HD
-http://proxytv.servegame.org:25461/megatrontvflusx00954/eQcWRC53Jv/58700
-#EXTINF:-1,AR: beIN SPORTS 9 HD
-http://proxytv.servegame.org:25461/megatrontvflusx00954/eQcWRC53Jv/58701
-#EXTINF:-1,AR: beIN SPORTS NBA HD
+#EXTINF:-1,Bein Sport 1 HD
+http://107.152.35.244:8888/live/star7arab/star7arab/1.ts
+#EXTINF:-1,Bein Sport 2 HD
+http://107.152.35.244:8888/live/star7arab/star7arab/2.ts
+#EXTINF:-1,Bein Sport 3 HD
+http://107.152.35.244:8888/live/star7arab/star7arab/3.ts
+#EXTINF:-1,Bein Sport 4 HD
+http://107.152.35.244:8888/live/star7arab/star7arab/4.ts
+#EXTINF:-1,Bein Sport 5 HD
+http://107.152.35.244:8888/live/star7arab/star7arab/5.ts
+#EXTINF:-1,Bein Sport 6 HD
+http://107.152.35.244:8888/live/star7arab/star7arab/6.ts
+#EXTINF:-1,Bein Sport 7 HD
+http://107.152.35.244:8888/live/star7arab/star7arab/7.ts
+#EXTINF:-1,Bein Sport 8 HD
+http://107.152.35.244:8888/live/star7arab/star7arab/8.ts
+#EXTINF:-1,Bein Sport 9 HD
+http://107.152.35.244:8888/live/star7arab/star7arab/9.ts
+#EXTINF:-1,Bein Sport 10 HD
+http://107.152.35.244:8888/live/star7arab/star7arab/10.ts
+#EXTINF:-1,Bein 1 sd
+http://107.152.35.244:8888/live/star7arab/star7arab/11.ts
+#EXTINF:-1,Bein 2 sd
+http://107.152.35.244:8888/live/star7arab/star7arab/12.ts
+#EXTINF:-1,Bein 3 sd
+http://107.152.35.244:8888/live/star7arab/star7arab/13.ts
+#EXTINF:-1,Bein 4 sd
+http://107.152.35.244:8888/live/star7arab/star7arab/14.ts
+#EXTINF:-1,Bein 5 sd
+http://107.152.35.244:8888/live/star7arab/star7arab/15.ts
+#EXTINF:-1,Bein 6 sd
+http://107.152.35.244:8888/live/star7arab/star7arab/16.ts
+#EXTINF:-1,Bein 7 sd
+http://107.152.35.244:8888/live/star7arab/star7arab/17.ts
+#EXTINF:-1,Bein 8 sd
+http://107.152.35.244:8888/live/star7arab/star7arab/18.ts
+#EXTINF:-1,Bein 9 sd
+http://107.152.35.244:8888/live/star7arab/star7arab/19.ts
+#EXTINF:-1,Bein 10 sd
+http://107.152.35.244:8888/live/star7arab/star7arab/20.ts
 http://proxytv.servegame.org:25461/megatrontvflusx00954/eQcWRC53Jv/58709
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQhdVG1.png" group-title="USA",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
