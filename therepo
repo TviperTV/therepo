@@ -1,44 +1,130 @@
 #EXTM3U
-#EXTINF:-1,Bein Sport 1 HD
-http://107.152.35.244:8888/live/star7arab/star7arab/1.ts
-#EXTINF:-1,Bein Sport 2 HD
-http://107.152.35.244:8888/live/star7arab/star7arab/2.ts
-#EXTINF:-1,Bein Sport 3 HD
-http://107.152.35.244:8888/live/star7arab/star7arab/3.ts
-#EXTINF:-1,Bein Sport 4 HD
-http://107.152.35.244:8888/live/star7arab/star7arab/4.ts
-#EXTINF:-1,Bein Sport 5 HD
-http://107.152.35.244:8888/live/star7arab/star7arab/5.ts
-#EXTINF:-1,Bein Sport 6 HD
-http://107.152.35.244:8888/live/star7arab/star7arab/6.ts
-#EXTINF:-1,Bein Sport 7 HD
-http://107.152.35.244:8888/live/star7arab/star7arab/7.ts
-#EXTINF:-1,Bein Sport 8 HD
-http://107.152.35.244:8888/live/star7arab/star7arab/8.ts
-#EXTINF:-1,Bein Sport 9 HD
-http://107.152.35.244:8888/live/star7arab/star7arab/9.ts
-#EXTINF:-1,Bein Sport 10 HD
-http://107.152.35.244:8888/live/star7arab/star7arab/10.ts
-#EXTINF:-1,Bein 1 sd
-http://107.152.35.244:8888/live/star7arab/star7arab/11.ts
-#EXTINF:-1,Bein 2 sd
-http://107.152.35.244:8888/live/star7arab/star7arab/12.ts
-#EXTINF:-1,Bein 3 sd
-http://107.152.35.244:8888/live/star7arab/star7arab/13.ts
-#EXTINF:-1,Bein 4 sd
-http://107.152.35.244:8888/live/star7arab/star7arab/14.ts
-#EXTINF:-1,Bein 5 sd
-http://107.152.35.244:8888/live/star7arab/star7arab/15.ts
-#EXTINF:-1,Bein 6 sd
-http://107.152.35.244:8888/live/star7arab/star7arab/16.ts
-#EXTINF:-1,Bein 7 sd
-http://107.152.35.244:8888/live/star7arab/star7arab/17.ts
-#EXTINF:-1,Bein 8 sd
-http://107.152.35.244:8888/live/star7arab/star7arab/18.ts
-#EXTINF:-1,Bein 9 sd
-http://107.152.35.244:8888/live/star7arab/star7arab/19.ts
-#EXTINF:-1,Bein 10 sd
-http://107.152.35.244:8888/live/star7arab/star7arab/20.ts
+#EXTINF:-1,beINSport 1 ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/995
+#EXTINF:-1,beINSport 1 HD ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/979
+#EXTINF:-1,beINSport 1 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/6963
+#EXTINF:-1,beINSport 2 ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/994
+#EXTINF:-1,beINSport 2 HD ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/978
+#EXTINF:-1,beINSport 2 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/6962
+#EXTINF:-1,beINSport 3 ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/993
+#EXTINF:-1,beINSport 3 HD ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/977
+#EXTINF:-1,beINSport 3 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/6961
+#EXTINF:-1,beINSport 4 ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/992
+#EXTINF:-1,beINSport 4 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/6960
+#EXTINF:-1,beINSport 5 ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/991
+#EXTINF:-1,beINSport 5 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/6959
+#EXTINF:-1,beINSport 6 ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/990
+#EXTINF:-1,beINSport 6 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/6958
+#EXTINF:-1,beINSport 7 HD ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/973
+#EXTINF:-1,beINSport 7 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/6957
+#EXTINF:-1,beINSport 8 ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/988
+#EXTINF:-1,beINSport 8 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/6956
+#EXTINF:-1,beINSport 9 ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/987
+#EXTINF:-1,beINSport 9 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/6955
+#EXTINF:-1,beINSport 10 ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/986
+#EXTINF:-1,beINSport 10 HD ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/970
+#EXTINF:-1,beINSport 10 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/6954
+#EXTINF:-1,beINSport 11 ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/985
+#EXTINF:-1,beINSport 12 ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/984
+#EXTINF:-1,beINSport 12 HD ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/968
+#EXTINF:-1,beINSport AlKass 1 HD ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/967
+#EXTINF:-1,beINSport AlKass 3 HD ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/965
+#EXTINF:-1,beINSport News HD ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/998
+#EXTINF:-1,beINSports 1 FHD ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/8776
+#EXTINF:-1,beINSports 2 FHD ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/8775
+#EXTINF:-1,beINSports 3 FHD ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/8774
+#EXTINF:-1,beINSports 4 FHD ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/8773
+#EXTINF:-1,beINSports 5 FHD ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/8772
+#EXTINF:-1,beINSports 6 FHD ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/8771
+#EXTINF:-1,beINSports 7 FHD ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/8770
+#EXTINF:-1,beINSports 8 FHD ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/8769
+#EXTINF:-1,beINSports 9 FHD ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/8768
+#EXTINF:-1,beINSports 10 FHD ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/8767
+#EXTINF:-1,beIN SPORTS 1 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9544
+#EXTINF:-1,beIN SPORTS 1 SD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9543
+#EXTINF:-1,bein Sport 2 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9542
+#EXTINF:-1,bein Sport 2 SD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9541
+#EXTINF:-1,bein Sport 3 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9540
+#EXTINF:-1,bein Sport 3 SD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9539
+#EXTINF:-1,bein Sport 4 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9538
+#EXTINF:-1,bein Sport 4 SD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9537
+#EXTINF:-1,bein Sport 5 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9536
+#EXTINF:-1,bein Sport 5 SD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9535
+#EXTINF:-1,bein Sport 6 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9534
+#EXTINF:-1,bein Sport 6 SD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9533
+#EXTINF:-1,bein Sport 7 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9532
+#EXTINF:-1,bein Sport 7 SD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9531
+#EXTINF:-1,bein Sport 8 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9530
+#EXTINF:-1,bein Sport 8 SD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9529
+#EXTINF:-1,bein Sport 9 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9528
+#EXTINF:-1,bein Sport 9 SD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9527
+#EXTINF:-1,bein Sport 10 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9526
+#EXTINF:-1,bein Sport 10 SD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9525
+#EXTINF:-1,bein Sport 11 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9524
+#EXTINF:-1,bein Sport 12 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9523
+#EXTINF:-1,bein Sport 13 HD VIP ARB
+http://paperkite.123tv.to:8080/vuJkiEQixb/tXQS0UkSyM/9522
 http://proxytv.servegame.org:25461/megatrontvflusx00954/eQcWRC53Jv/58709
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQhdVG1.png" group-title="USA",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
