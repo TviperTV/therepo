@@ -1,9 +1,13 @@
-#EXTINF:-1,History Channel
-http://tv.extrem-iptv.com:8844/Trianag6777777/WkJiW8d4e7fe/92
-#EXTINF:-1,Kitchen24
-http://tv.extrem-iptv.com:8844/Trianag6777777/WkJiW8d4e7fe/823
-#EXTINF:-1,Food Network
-http://tv.extrem-iptv.com:8844/Trianag6777777/WkJiW8d4e7fe/1445
+#EXTINF:-1,*TSN 1 HD
+http://ok2.se:8000/42d8F1UE11bDm9uFH/ec1fF1UnyJvQHl9XB/138
+#EXTINF:-1,*TSN 2 HD
+http://ok2.se:8000/42d8F1UE11bDm9uFH/ec1fF1UnyJvQHl9XB/139
+#EXTINF:-1,*TSN 3 HD
+http://ok2.se:8000/42d8F1UE11bDm9uFH/ec1fF1UnyJvQHl9XB/140
+#EXTINF:-1,*TSN 4 HD
+http://ok2.se:8000/42d8F1UE11bDm9uFH/ec1fF1UnyJvQHl9XB/141
+#EXTINF:-1,*TSN 5 HD
+http://ok2.se:8000/42d8F1UE11bDm9uFH/ec1fF1UnyJvQHl9XB/142
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQhdVG1.png" group-title="USA",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="USA",AFV
