@@ -1,12 +1,14 @@
-#EXTINF:0,VIP HD TSN1
-http://104.218.60.145:83/Elonge/4049153347@/375855
-#EXTINF:0,VIP HD TSN2
-http://104.218.60.145:83/Elonge/4049153347@/375854
-#EXTINF:0,VIP HD TSN3
-http://104.218.60.145:83/Elonge/4049153347@/374370
-#EXTINF:0,VIP HD TSN4
-http://104.218.60.145:83/Elonge/4049153347@/374371
-#EXTINF:0,VIP HD TSN5
+#EXTM3U
+#EXTINF:0,*TSN 1 HD
+http://46.166.142.124:8000/live/sara/sara123/138.ts
+#EXTINF:0,*TSN 2 HD
+http://46.166.142.124:8000/live/sara/sara123/139.ts
+#EXTINF:0,*TSN 3 HD
+http://46.166.142.124:8000/live/sara/sara123/140.ts
+#EXTINF:0,*TSN 4 HD
+http://46.166.142.124:8000/live/sara/sara123/141.ts
+#EXTINF:0,*TSN 5 HD
+http://46.166.142.124:8000/live/sara/sara123/142.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQhdVG1.png" group-title="USA",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="USA",AFV
