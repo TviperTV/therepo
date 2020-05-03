@@ -1,11 +1,3 @@
-#EXTINF:-1,UNIVERSAL CHANNEL SD
-http://vipeiptv.com:25461/987654321/987654321/758121
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://vipeiptv.com:25461/987654321/987654321/758122
-#EXTINF:-1,UNIVERSAL CHANNEL FULLHD
-http://vipeiptv.com:25461/987654321/987654321/758123
-#EXTINF:-1,WARNER CHANNEL SD
-http://vipeiptv.com:25461/987654321/987654321/758124
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQhdVG1.png" group-title="USA",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="USA",AFV
