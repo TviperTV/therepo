@@ -1,13 +1,12 @@
-#EXTINF:-1,CA:TSN_1
-http://universe-ip.com:8000/2/2/4791
-#EXTINF:-1,CA:TSN_2
-http://universe-ip.com:8000/2/2/4792
-#EXTINF:-1,CA:TSN_3
-http://universe-ip.com:8000/2/2/4793
-#EXTINF:-1,CA:TSN_4
-http://universe-ip.com:8000/2/2/4794
-#EXTINF:-1,CA:TSN_5
-http://universe-ip.com:8000/2/2/4795
+#EXTINF:0,VIP HD TSN1
+http://104.218.60.145:83/Elonge/4049153347@/375855
+#EXTINF:0,VIP HD TSN2
+http://104.218.60.145:83/Elonge/4049153347@/375854
+#EXTINF:0,VIP HD TSN3
+http://104.218.60.145:83/Elonge/4049153347@/374370
+#EXTINF:0,VIP HD TSN4
+http://104.218.60.145:83/Elonge/4049153347@/374371
+#EXTINF:0,VIP HD TSN5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQhdVG1.png" group-title="USA",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="USA",AFV
